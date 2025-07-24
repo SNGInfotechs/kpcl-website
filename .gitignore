@@ -20,7 +20,7 @@ debug.log
 /node_modules/
 
 # Ignore backup files
-*.sql
+# *.sql
 *.zip
 *.tar.gz
 *.rar
